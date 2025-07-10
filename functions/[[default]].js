@@ -1,3 +1,4 @@
+// 文件名应该是: /functions/[[default]].js
 export async function onRequest(context) {
   const logs = [];
 
